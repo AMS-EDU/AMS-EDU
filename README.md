@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, welcome to my GitHub profile!<br>
+👩‍🎓 I am a student who is passionate about web development.<br>
+👩‍💻 I have some experience with Arduino and HTML/CSS/JavaScript.<br>
+👩‍🔬 I am also interested in learning more about machine learning and other programming languages in the future if possible.<br>
+🙌 I hope you enjoy browsing my projects and feel free to reach out to me if you have any questions or feedback.<br>
 
 # 💯DOC Journal
 [![100doc](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://amshafinedu.notion.site/100DaysOfCode-c4ce19eb28e44a268ef3c75579a70ded)
