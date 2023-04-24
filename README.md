@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+# 💯DOC Journal
+[![100doc](https://get.site/wp-content/uploads/bfi_thumb/notion-logo-38q8iq9lv8th4hlvppxhop7jceqbjc42hmlzlvwacni20k5ao.png)](https://amshafinedu.notion.site/100DaysOfCode-c4ce19eb28e44a268ef3c75579a70ded)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DrkShark231) 
